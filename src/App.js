@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1> Helllo World My name is abdelali</h1>
-          <h2> This is a demo of CI/CD</h2>
+        <h1> Hello World </h1>
+      <h2> My name is Abdelali Jadelmoula </h2>
+<h3> I am in love with devops (CI/CD) pipeline </h3>
         </p>
         <a
           className="App-link"
